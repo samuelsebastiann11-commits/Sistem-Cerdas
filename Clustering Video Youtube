@@ -1,0 +1,7 @@
+# Review Video Machine Learning — Clustering
+
+* **Link Video 1:** (https://www.youtube.com/watch?v=4b5d3muPQmA)
+> **Kesimpulan:** Video ini menjelaskan K-Means sebagai algoritma *clustering* populer yang termasuk dalam kategori *unsupervised learning*. Cara kerjanya dimulai dengan menentukan jumlah *cluster* (K) yang diinginkan, lalu menempatkan titik pusat (*centroid*) secara acak. Setiap data akan dimasukkan ke *cluster* terdekat, kemudian posisi *centroid* diperbarui berdasarkan rata-rata anggota *cluster*-nya. Proses ini diulang terus-menerus hingga posisi *centroid* tidak berubah lagi dan *cluster* menjadi stabil.
+
+* **Link Video 2:** (https://www.youtube.com/watch?v=7xHsRkOdVwo)
+> **Kesimpulan:** Video ini membahas *hierarchical clustering* sebagai pendekatan *clustering* yang membangun hierarki pengelompokan data dari bawah ke atas (*agglomerative*). Setiap data awalnya dianggap sebagai *cluster* tunggal, lalu *cluster* yang paling mirip akan digabungkan secara bertahap hingga membentuk satu *cluster* besar. Hasil penggabungan ini divisualisasikan dalam bentuk diagram pohon yang disebut *dendrogram*. Video ini juga menjelaskan cara membaca *dendrogram* untuk menentukan jumlah *cluster* yang optimal berdasarkan jarak penggabungannya.
