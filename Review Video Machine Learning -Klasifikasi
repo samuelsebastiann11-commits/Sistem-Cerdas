@@ -1,0 +1,7 @@
+# Review Video Machine Learning — Klasifikasi (Classification)
+
+* **Link Video 1:** (https://www.youtube.com/watch?v=yIYKR4sgzI8)
+> **Kesimpulan:** Video ini menjelaskan *logistic regression* sebagai fondasi algoritma klasifikasi yang memprediksi probabilitas suatu data masuk ke dalam kelas tertentu. Berbeda dengan regresi linear yang menghasilkan garis lurus, metode ini menggunakan fungsi *sigmoid* untuk membentuk kurva S sehingga nilai *output* selalu berada di antara 0 dan 1. Nilai probabilitas tersebut nantinya akan diubah menjadi keputusan kelas (misalnya ya/tidak atau 0/1) berdasarkan ambang batas tertentu. Algoritma ini sangat populer untuk kasus klasifikasi biner seperti mendeteksi apakah sebuah email termasuk spam atau bukan.
+
+* **Link Video 2:** (https://www.youtube.com/watch?v=eg8DJYwdMyg)
+> **Kesimpulan:** Video dari MIT OpenCourseWare ini memperkenalkan *supervised learning* untuk masalah klasifikasi dengan menggunakan metode *nearest neighbor* dan *decision tree*. Penjelasan diawali dengan konsep dasar pengelompokan data ke dalam kelas-kelas yang sudah memiliki label target. Video ini juga menekankan pentingnya *feature scaling* saat menggunakan algoritma berbasis jarak agar hasil prediksi tidak bias. Studi kasus yang dibawakan membantu memahami bagaimana model mengambil keputusan klasifikasi pada data yang belum pernah dilihat sebelumnya.
