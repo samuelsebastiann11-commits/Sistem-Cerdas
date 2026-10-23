@@ -1,0 +1,7 @@
+# Review Video Machine Learning — Jaringan Saraf Tiruan (JST)
+
+* **Link Video 1:** (https://www.youtube.com/watch?v=CqOfi41LfDw)
+> **Kesimpulan:** Video ini menjelaskan komponen dasar penyusun jaringan saraf tiruan, mulai dari input, bobot (*weight*), bias, hingga fungsi aktivasi. Setiap neuron buatan pada dasarnya adalah unit komputasi kecil yang menghitung jumlah total dari input yang sudah dikalikan dengan bobotnya. Fungsi aktivasi berperan penting untuk memperkenalkan sifat non-linear pada jaringan, sehingga jaringan dapat mempelajari pola yang rumit. Tanpa fungsi aktivasi, jaringan saraf, tidak peduli seberapa dalam lapisannya, akan tetap bersifat linear.
+
+* **Link Video 2:** (https://www.youtube.com/watch?v=l-CjXFmcVzY)
+> **Kesimpulan:** Video ini membahas *perceptron* sebagai bentuk paling sederhana dari jaringan saraf tiruan, yang hanya terdiri dari satu neuron dengan fungsi aktivasi undak (*step function*). Aturan belajar *perceptron* sangat sederhana, yaitu hanya memperbarui bobot ketika model melakukan kesalahan prediksi, dengan menggeser bobot ke arah yang benar. Namun, video ini juga menjelaskan kelemahan fundamental *perceptron*, yaitu tidak mampu menyelesaikan masalah yang tidak terpisah secara linear (seperti logika XOR). Keterbatasan inilah yang mendorong lahirnya jaringan saraf multi-lapis (*Multi-Layer Perceptron*) dengan *hidden layer*.
