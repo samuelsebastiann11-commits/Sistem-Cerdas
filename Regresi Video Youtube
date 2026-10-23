@@ -1,0 +1,7 @@
+# Review Video Machine Learning — Regresi (Regression)
+
+* **Link Video 1:** (https://www.youtube.com/watch?v=nk2CQITm_eo)
+> **Kesimpulan:** Video ini memperkenalkan regresi linear sebagai metode *supervised learning* yang dipakai untuk memprediksi nilai numerik kontinu. Ide utamanya adalah mencari garis lurus yang paling pas (*best fit line*) untuk merepresentasikan hubungan antara variabel independen (X) dan variabel dependen (Y). Garis tersebut ditentukan dengan meminimalkan total jarak kuadrat antara titik data asli dengan garis prediksinya. Contoh sederhananya adalah memprediksi harga rumah berdasarkan luas bangunannya.
+
+* **Link Video 2:** (https://www.youtube.com/watch?v=5QnJtDad4iQ)
+> **Kesimpulan:** Video ini menjelaskan bahwa regresi adalah teknik fundamental dalam *machine learning* untuk menganalisis hubungan sebab-akibat antar variabel. Selain regresi linear sederhana, video ini juga menyinggung jenis regresi lain yang lebih fleksibel untuk pola data yang melengkung. Kunci dari regresi adalah kemampuan model untuk menggeneralisasi data baru, bukan hanya menghafal data latih. Pemahaman yang baik tentang regresi menjadi bekal penting sebelum mempelajari algoritma yang lebih kompleks.
