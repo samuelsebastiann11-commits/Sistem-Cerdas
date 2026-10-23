@@ -1,0 +1,7 @@
+# Review Video Machine Learning — Deep Learning
+
+* **Link Video 1:** (https://www.youtube.com/watch?v=aircAruvnKk)
+> **Kesimpulan:** Video ini menjelaskan cara kerja *neural network* melalui visualisasi intuitif, dimulai dari pengenalan pola sederhana hingga pengenalan angka tulisan tangan. Jaringan ini terdiri dari lapisan-lapisan (*layers*) neuron yang saling terhubung, di mana setiap lapisan akan mengekstrak fitur yang semakin kompleks. Proses belajar dilakukan dengan menyesuaikan bobot (*weights*) dan bias pada setiap koneksi antar neuron. Inti dari *deep learning* adalah penggunaan banyak lapisan tersembunyi (*hidden layers*) untuk menangkap representasi data yang rumit.
+
+* **Link Video 2:** (https://www.youtube.com/watch?v=IHZwWFHWa-w)
+> **Kesimpulan:** Video ini membahas *gradient descent* sebagai algoritma optimasi inti yang membuat *neural network* bisa "belajar" dari kesalahannya. Prosesnya dimulai dengan menghitung *loss function* untuk mengukur seberapa jauh prediksi model dari nilai sebenarnya. Kemudian, algoritma ini mencari arah turunan (gradien) yang paling curam untuk memperbarui bobot secara bertahap agar nilai *loss* mengecil. Visualisasi yang ditampilkan sangat membantu dalam memahami bagaimana jaringan perlahan-lahan menemukan parameter yang paling optimal.
